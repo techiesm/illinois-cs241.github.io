@@ -42,5 +42,3 @@ Disallow: /
 
 User-agent: ia_archiver
 Disallow: /
-
-Sitemap: https://leadership.ucsc.edu/sitemap.xml
